@@ -233,7 +233,7 @@ If you find this repository helpful, please consider giving it a ⭐ on GitHub!
 # 📬 Connect With Me
 
 - GitHub: your-github-username
-- LinkedIn: your-linkedin-profile
+- LinkedIn: https://www.linkedin.com/in/tanim-rakib/
 
 ---
 
