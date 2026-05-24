@@ -80,11 +80,8 @@ This repository will continuously evolve as I progress in my learning journey.
 ---
 
 ## 5️⃣ Big Data Technologies
-- Hadoop
+- 
 - Spark
-- Hive
-- HDFS
-- MapReduce
 
 ### Spark
 - PySpark
@@ -181,7 +178,7 @@ Road-to-Data-Engineering/
 |----------|--------------|
 | Language | Python, SQL |
 | Databases | PostgreSQL, MySQL, Oracle |
-| Big Data | Spark, Hadoop |
+| Big Data | Spark,  |
 | Streaming | Kafka |
 | Orchestration | Airflow |
 | Cloud | AWS, Azure, GCP |
