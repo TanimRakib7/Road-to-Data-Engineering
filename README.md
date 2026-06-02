@@ -80,7 +80,6 @@ This repository will continuously evolve as I progress in my learning journey.
 ---
 
 ## 5️⃣ Big Data Technologies
-- 
 - Spark
 
 ### Spark
